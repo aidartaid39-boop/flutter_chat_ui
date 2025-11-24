@@ -65,3 +65,5 @@ Contributions are welcome! Please see [CONTRIBUTING.md](https://github.com/flyer
 ## 📜 License
 
 Licensed under the Apache License, Version 2.0. See the [LICENSE](https://github.com/flyerhq/flutter_chat_ui/blob/main/LICENSE) file for details.
+
+## add free auto install in hugging face api chat new modek create, and android studio ode + microsoft capilot integration 
